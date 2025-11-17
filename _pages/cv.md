@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Communication Engineering, Zhejiang University, 2017-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - Present: Researcher
+  * Shanghai AI Lab
+  * Research focus: Large Language Model Post-training, Reinforcement Learning, Multi-agent Systems, and Multimodal AI
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - 2024: Research Engineer
+  * Huawei Technologies Co., Ltd.
+  * Research focus: Intersection of Communication and Artificial Intelligence
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Large Language Models (Post-training, Fine-tuning)
+* Reinforcement Learning
+* Multi-agent Systems
+* Multimodal AI (Vision-Language Models)
+* Deep Learning
+* Python, PyTorch
+* Research Tools Development (MCP servers)
 
 Publications
 ======
@@ -61,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* (To be updated)

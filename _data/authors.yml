@@ -1,18 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Li Xiangtian:
+  name        : "Li Xiangtian"
+  uri         : "https://Lixtt.github.io"
+  email       : "lixiangtian@pjlab.org.cn"
+  bio         : "Researcher focusing on Large Language Model Post-training, Reinforcement Learning, Multi-agent Systems, and Multimodal AI. Previously worked on Embodied AI."
+  avatar      : "profile.png"
+  location    : "Shanghai, China"
+  employer    : "Shanghai AI Lab"
+  github      : "Lixtt"
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
