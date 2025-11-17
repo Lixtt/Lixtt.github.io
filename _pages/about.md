@@ -21,6 +21,9 @@ I am a researcher at Shanghai AI Lab, focusing on cutting-edge research in artif
 
 My research spans several exciting areas:
 
+### Multi-round Reinforcement Learning and Self-Evolving Agents
+Exploring multi-round reinforcement learning and self-evolving agent architectures for developing adaptive and continuously improving AI systems. This ongoing research focuses on agents that can learn and adapt across multiple rounds of interaction, continuously evolving their strategies and capabilities.
+
 ### Reinforcement Learning Framework Integration
 Integrating and improving reinforcement learning frameworks including veRL, openRLHF, and slime, with algorithm enhancements for better training efficiency and performance.
 
