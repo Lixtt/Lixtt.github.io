@@ -2,7 +2,7 @@
 title: "Research MCP Servers"
 excerpt: "A collection of Model Context Protocol (MCP) servers for research workflows, including arXiv integration and other research tools."
 collection: portfolio
-date: 2024-08-01
+date: 2025-08-01
 github: "https://github.com/Lixtt/research-mcp-servers"
 ---
 
