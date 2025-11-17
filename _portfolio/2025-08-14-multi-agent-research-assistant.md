@@ -2,7 +2,7 @@
 title: "Multi-Agent Research Assistant"
 excerpt: "An intelligent multi-agent system for research assistance, enabling collaborative problem-solving among multiple AI agents."
 collection: portfolio
-date: 2024-08-01
+date: 2025-08-14
 github: "https://github.com/Lixtt/multi_agent_research_assistant"
 ---
 
