@@ -27,6 +27,12 @@ Developing intelligent multi-agent systems for research assistance, enabling col
 ### Multimodal Large Language Models
 Working on Chain-of-Thought (CoT) reasoning and Monte Carlo Tree Search (MCTS) methods for improving reasoning capabilities in multimodal settings.
 
+### Reinforcement Learning Framework Integration
+Integrating and improving reinforcement learning frameworks including veRL, openRLHF, and slime, with algorithm enhancements for better training efficiency and performance.
+
+### Automated Evaluation Framework
+Improving automated evaluation frameworks based on lmms-eval for comprehensive assessment of multimodal and language models.
+
 ### Research Tools & Infrastructure
 Building MCP (Model Context Protocol) servers for research workflows, including arXiv integration and other research tools.
 
