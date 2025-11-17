@@ -41,5 +41,5 @@ Please see the [Publications](/publications/) and [Talks](/talks/) pages for det
 
 - **Email**: lixiangtian@pjlab.org.cn
 - **GitHub**: [@Lixtt](https://github.com/Lixtt)
-- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=l9jXfygAAAAJ)
 - **Location**: Shanghai, China
