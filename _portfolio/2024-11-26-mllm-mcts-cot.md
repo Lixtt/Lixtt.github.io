@@ -2,7 +2,7 @@
 title: "MLLM-MCTS-CoT: Monte Carlo Tree Search for Multimodal Reasoning"
 excerpt: "Combining Monte Carlo Tree Search (MCTS) with Chain-of-Thought reasoning for enhanced reasoning in multimodal large language models."
 collection: portfolio
-date: 2025-11-26
+date: 2024-11-26
 github: "https://github.com/Lixtt/mllm-mcts-cot"
 ---
 
