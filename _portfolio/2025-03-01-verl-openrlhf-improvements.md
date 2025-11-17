@@ -2,7 +2,7 @@
 title: "Reinforcement Learning Framework Improvements (veRL & openRLHF)"
 excerpt: "Framework integration and algorithm improvements for veRL and openRLHF reinforcement learning frameworks, enhancing training efficiency and performance."
 collection: portfolio
-date: 2024-09-01
+date: 2025-03-01
 ---
 
 ## Overview

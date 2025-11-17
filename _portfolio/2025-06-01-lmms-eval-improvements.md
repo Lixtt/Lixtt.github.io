@@ -2,7 +2,7 @@
 title: "Automated Evaluation Framework Improvements (lmms-eval)"
 excerpt: "Improving automated evaluation frameworks based on lmms-eval for comprehensive assessment of multimodal and language models."
 collection: portfolio
-date: 2024-10-01
+date: 2025-06-01
 ---
 
 ## Overview
