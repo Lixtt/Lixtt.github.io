@@ -9,13 +9,13 @@ redirect_from:
 
 ## About Me
 
-I am a researcher at Shanghai AI Lab, focusing on cutting-edge research in artificial intelligence and machine learning. My current research interests include:
+I am a researcher at Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab), focusing on cutting-edge research in AI safety, large language models, and multi-agent systems. My current research interests include:
 
-- **Large Language Model Post-training**: Developing efficient methods for fine-tuning and post-training large language models
-- **Reinforcement Learning**: Exploring reinforcement learning techniques for training intelligent agents
-- **Multi-agent Systems**: Investigating coordination and collaboration mechanisms in multi-agent environments
+- **LLM Safety & Alignment**: Developing robust safety frameworks for large language models, including jailbreak defense, safety-oriented RL post-training, and multi-agent safeguarding
+- **Reinforcement Learning**: Exploring reinforcement learning techniques for LLM post-training, self-evolving agents, and multi-agent coordination
+- **Multi-agent Systems**: Investigating safety, coordination, and collaboration mechanisms in multi-agent environments
+- **Large Language Model Post-training**: Developing efficient methods for fine-tuning, alignment, and post-training of large language models
 - **Multimodal AI**: Working on integrating vision and language in multimodal large language models (MLLM)
-- **Embodied AI**: Previously worked on embodied intelligence, including text-to-scene generation and robotic applications
 
 ## Research Projects
 
