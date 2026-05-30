@@ -51,4 +51,7 @@ Please see the [Publications](/publications/) and [Talks](/talks/) pages for det
 - **Email**: lixiangtian@pjlab.org.cn
 - **GitHub**: [@Lixtt](https://github.com/Lixtt)
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=l9jXfygAAAAJ)
+- **ORCID**: [0009-0008-1931-2836](https://orcid.org/0009-0008-1931-2836)
+- **Semantic Scholar**: [Profile](https://www.semanticscholar.org/author/Xiangtian-Li/2372110825)
+- **OpenReview**: [Profile](https://openreview.net/profile?id=~Xiangtian_Li2)
 - **Location**: Shanghai, China
