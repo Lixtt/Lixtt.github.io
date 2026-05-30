@@ -56,6 +56,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      {% if author.dblp %}
+        <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw icon-pad-right" aria-hidden="true"></i>DBLP</a></li>
+      {% endif %}
       {% if author.openreview %}
         <li><a href="{{ author.openreview }}"><i class="fas fa-fw fa-file-signature icon-pad-right" aria-hidden="true"></i>OpenReview</a></li>
       {% endif %}
